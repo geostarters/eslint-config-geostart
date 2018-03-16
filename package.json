@@ -1,0 +1,18 @@
+{
+	"name": "eslint-config-geostart",
+	"version": "0.0.1",
+	"description": "The linter used by Geostart projects",
+	"main": "index.js",
+	"dependencies": {
+		"babel-eslint": "^8.2.1",
+		"eslint": "^3",
+		"eslint-config-mourner": "^2.0.3",
+		"eslint-plugin-flowtype": "^2.46.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/geostarters/eslint-config-geostart.git"
+	},
+	"author": "Geostarters",
+	"license": "MIT"
+}
