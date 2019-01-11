@@ -1,4 +1,6 @@
-# geostart-lint
+# @geostarters/eslint-config
+[![npm version](https://badge.fury.io/js/%40geostarters%2Feslint-config.svg)](https://badge.fury.io/js/%40geostarters%2Feslint-config)
+
 The linter used by the Geostart projects.
 
 Extends the eslint-config-mourner eslint configuration

@@ -1,5 +1,7 @@
 {
-	"name": "eslint-config-geostart",
+	"name": "@geostarters/eslint-config",
+	"homepage": "https://github.com/geostarters/eslint-config-geostart",
+	"bugs": "https://github.com/geostarters/eslint-config-geostart/issues",
 	"version": "0.0.1",
 	"description": "The linter used by Geostart projects",
 	"main": "index.js",
