@@ -29,3 +29,4 @@ Extends the eslint-config-mourner eslint configuration
 * Disables [space-before-function-paren](https://eslint.org/docs/rules/space-before-function-paren)
 * Forces [template-curly-spacing](https://eslint.org/docs/rules/template-curly-spacing) so spaces are forced inside template curly braces
 * Disables [no-useless-escape](https://eslint.org/docs/rules/no-useless-escape) to disallow unnecessary escape usage
+* Use [proper-arrows](https://www.npmjs.com/package/@getify/eslint-plugin-proper-arrows) plugin, that control the definitions of => arrow functions, restricting them to a narrower and more proper/readable form
