@@ -8,7 +8,7 @@ module.exports = {
 	  "sourceType": "script"
 	},
 	"plugins": [
-	  "flowtype", "@getify/proper-arrows"
+	  "flowtype"
 	],
 	"rules": {
 	  "array-bracket-spacing": "off",
@@ -48,12 +48,7 @@ module.exports = {
 	  "quotes": ["error", "double"],
 	  "space-before-function-paren": "off",
 	  "template-curly-spacing": "error",
-		"no-useless-escape": "off",
-		"@getify/proper-arrows/params": ["error",{"unused":"trailing"}],
-    "@getify/proper-arrows/name": ["error",{"trivial":false}],
-    "@getify/proper-arrows/location": ["error",{"global":true}],
-    "@getify/proper-arrows/return": ["error",{"object":true}],
-    "@getify/proper-arrows/this": ["error","always",{"no-global":true}]
+		"no-useless-escape": "off"
 	},
 	"globals": {
 	  "performance": true

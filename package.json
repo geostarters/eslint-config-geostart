@@ -6,7 +6,6 @@
 	"description": "The linter used by Geostart projects",
 	"main": "index.js",
 	"dependencies": {
-		"@getify/eslint-plugin-proper-arrows": "^5.0.2",
 		"babel-eslint": "^8.2.1",
 		"eslint": ">4",
 		"eslint-config-mourner": "^2.0.3",
@@ -17,5 +16,6 @@
 		"url": "git+https://github.com/geostarters/eslint-config-geostart.git"
 	},
 	"author": "Geostarters",
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {}
 }
