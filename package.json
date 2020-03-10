@@ -2,14 +2,14 @@
 	"name": "@geostarters/eslint-config",
 	"homepage": "https://github.com/geostarters/eslint-config-geostart",
 	"bugs": "https://github.com/geostarters/eslint-config-geostart/issues",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "The linter used by Geostart projects",
 	"main": "index.js",
 	"dependencies": {
-		"babel-eslint": "^8.2.1",
-		"eslint": ">4",
-		"eslint-config-mourner": "^2.0.3",
-		"eslint-plugin-flowtype": "^2.46.1"
+		"babel-eslint": "^10.1.0",
+		"eslint": "^6.8.0",
+		"eslint-config-mourner": "^3.0.0",
+		"eslint-plugin-flowtype": "^4.6.0"
 	},
 	"repository": {
 		"type": "git",
